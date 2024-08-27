@@ -2,9 +2,9 @@
 
 <p align="center">
   <img src="vite-logo.svg" alt="Vite Logo" width="60"/> &nbsp;&nbsp;&nbsp;
-  <img src="html5-logo.svg" alt="HTML5 Logo" width="60"/> &nbsp;&nbsp;&nbsp;
-  <img src="css3-logo.svg" alt="CSS3 Logo" width="60"/> &nbsp;&nbsp;&nbsp;
-  <img src="javascript-logo.svg" alt="JavaScript Logo" width="60"/>
+  <img src="html5.svg" alt="HTML5 Logo" width="60"/> &nbsp;&nbsp;&nbsp;
+  <img src="css3.svg" alt="CSS3 Logo" width="60"/> &nbsp;&nbsp;&nbsp;
+  <img src="js.svg" alt="JavaScript Logo" width="60"/>
 </p>
 
 <p align="center">
